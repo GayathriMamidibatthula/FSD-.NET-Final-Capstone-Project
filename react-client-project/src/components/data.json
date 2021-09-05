@@ -1,0 +1,32 @@
+ {
+    "productData": [
+        {
+            "id": 1,
+            "img": "https://www.tylenol.com.au/sites/tylenol_au/files/product-images/adult-100_0.jpg",
+            "title": "Tylenol",
+            "desc": "",
+            "price": 30
+        },
+        {
+            "id": 2,
+            "img": "https://5.imimg.com/data5/IL/JJ/KV/SELLER-4231435/azithral-pharmaceutical-tablets-500x500.jpg",
+            "title":"Azithral" ,
+            "desc": "",
+            "price": 100
+        },
+        {
+            "id": 3,
+            "img": "https://m.media-amazon.com/images/I/81CZXIgv7qL._SY450_.jpg",
+            "title": "Vicks VapoRub",
+            "desc": "",
+            "price": 200
+        },
+        {
+            "id": 4,
+            "img": "https://5.imimg.com/data5/IP/TI/GB/SELLER-2000120/pain-ointment-500x500.jpg",
+            "title":"Render Ointment" ,
+            "desc": "",
+            "price": 50
+        }   
+    ]
+}
